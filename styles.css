@@ -25,7 +25,7 @@
 .item3,
 .item4 {
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
     display: inline-block;
     width: 300px;
     height: 400px;
@@ -35,7 +35,7 @@
 
 .item1 {
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
     display: inline-block;
     width: 300px;
     height: 400px;
@@ -69,17 +69,19 @@
     margin-top: 60px;
     font-style: italic;
 }
+
 .item1>h1 {
     margin-top: 10px;
     color: white;
 }
-.item1>p{
+
+.item1>p {
     margin-top: 30px;
     font-style: italic;
     color: white;
 }
 
-.item1>div{
+.item1>div {
     margin-top: 40px;
     text-align: center;
     color: white;
@@ -87,15 +89,17 @@
     background-color: rgba(254, 234, 234, 0.265);
     width: 180px;
     border-radius: 20px;
-    margin-left:10%;
+    margin-left: 10%;
     padding: 10px;
 
 }
-.a:hover{
+
+.a:hover {
     background-color: white;
-    color:red ;
+    color: red;
 }
-.item4:hover>div>i{
+
+.item4:hover>div>i {
     background-color: red;
     color: white;
 }
